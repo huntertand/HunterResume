@@ -16,6 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
+          <H/>
           Learn React
         </a>
       </header>
@@ -23,4 +24,9 @@ function App() {
   );
 }
 
+function H() {
+  return (
+    <div> Hunter Anderson is a Bad A</div>
+  )
+}
 export default App;
