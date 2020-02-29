@@ -26,7 +26,7 @@ function App() {
 
 function H() {
   return (
-    <div> Hunter Anderson is a Bad A</div>
+    <div> Hunter Anderson is a Bad Mofo</div>
   )
 }
 export default App;
